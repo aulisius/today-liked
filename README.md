@@ -8,3 +8,6 @@
 - [programming](https://www.reddit.com/r/programming) 
 - [Git Squash Â· FreeCodeCamp/FreeCodeCamp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Git-Squash) 
 - [What the Functor is a Monad](https://realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/) 
+
+### August 19, 2016
+- [Things to rewrite in Rust](https://scribbles.pascalhertleif.de/things-to-rewrite-in-rust.html) 
