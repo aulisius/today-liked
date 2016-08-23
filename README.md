@@ -11,3 +11,6 @@
 
 ### August 19, 2016
 - [Things to rewrite in Rust](https://scribbles.pascalhertleif.de/things-to-rewrite-in-rust.html) 
+
+### August 23, 2016
+- [react-storybook/index.html.js at master · kadirahq/react-storybook](https://github.com/kadirahq/react-storybook/blob/master/dist/server/index.html.js) 
