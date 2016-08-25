@@ -14,3 +14,6 @@
 
 ### August 23, 2016
 - [react-storybook/index.html.js at master · kadirahq/react-storybook](https://github.com/kadirahq/react-storybook/blob/master/dist/server/index.html.js) 
+
+### August 25, 2016
+- [types.markdown](https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c) 
