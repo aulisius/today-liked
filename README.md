@@ -17,3 +17,6 @@
 
 ### August 25, 2016
 - [types.markdown](https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c) 
+
+### August 28, 2016
+- [How I Got Started With Programming Side Projects · code.Antrikshy](http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects) 
