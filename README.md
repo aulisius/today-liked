@@ -20,3 +20,6 @@
 
 ### August 28, 2016
 - [How I Got Started With Programming Side Projects · code.Antrikshy](http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects) 
+
+### August 30, 2016
+- [Game Graphics 101: Rendering 2D on GPU. Shaders - IT Hare on Soft.ware](http://ithare.com/game-graphics-101-rendering-2d-on-gpu-shaders/) 
