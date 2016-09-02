@@ -23,3 +23,6 @@
 
 ### August 30, 2016
 - [Game Graphics 101: Rendering 2D on GPU. Shaders - IT Hare on Soft.ware](http://ithare.com/game-graphics-101-rendering-2d-on-gpu-shaders/) 
+
+### September 2, 2016
+- [How not to bomb your offer negotiation – Free Code Camp](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.nliwttn5g) 
