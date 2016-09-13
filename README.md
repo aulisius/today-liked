@@ -26,3 +26,6 @@
 
 ### September 2, 2016
 - [How not to bomb your offer negotiation – Free Code Camp](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.nliwttn5g) 
+
+### September 13, 2016
+- [Everything you could ever possibly imagine already exists in an implicate form. When you imagine it, you're basically finding a vision of a possible future - whether you want to pursue and manifest that vision is entirely your choice. : Psychonaut](https://www.reddit.com/r/Psychonaut/comments/322a7c/everything_you_could_ever_possibly_imagine/) 
